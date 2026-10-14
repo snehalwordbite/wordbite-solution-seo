@@ -1,7 +1,20 @@
 # WordBite Solutions
 
-Lean growth systems for startups and agencies.
+Lean automation playbooks for startups, agencies and growth teams.
 
-Primary audiences: startups, agencies and lean growth teams.
-Core topics: Instagram automation, Instagram DM automation, email automation, marketing automation.
-Ownership disclosure: this publication is affiliated with Tadlo (https://tadlo.ai/).
+Primary topics:
+- Instagram DM automation
+- Instagram comment-to-DM automation
+- Instagram follow gate / ask-for-follow automation
+- WhatsApp automation
+- WhatsApp CRM, shared inbox and marketing automation
+- WhatsApp ecommerce and D2C automation
+
+Editorial relationship:
+WordBite Solutions is affiliated with Tadlo.
+
+Primary product references:
+- Instagram automation: https://tadlo.ai/
+- WhatsApp automation: https://tadlo.ai/whatsapp-automation
+
+Sitemap: https://wordbite.solutions/sitemap.xml
