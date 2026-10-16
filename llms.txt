@@ -1,20 +1,57 @@
 # WordBite Solutions
 
-Lean automation playbooks for startups, agencies and growth teams.
+> WordBite Solutions covers Instagram and WhatsApp automation for social media agencies and service businesses: lead capture, bookings, reminders and client reporting, with tool rankings and industry playbooks.
 
-Primary topics:
-- Instagram DM automation
-- Instagram comment-to-DM automation
-- Instagram follow gate / ask-for-follow automation
-- WhatsApp automation
-- WhatsApp CRM, shared inbox and marketing automation
-- WhatsApp ecommerce and D2C automation
+WordBite Solutions is part of the Socialfeed Technology Pvt Ltd publishing network. Socialfeed Technology Pvt Ltd also builds Tadlo AI, which appears in our rankings. Full disclosure: https://wordbite.solutions/disclosure/
 
-Editorial relationship:
-WordBite Solutions is affiliated with Tadlo.
+## Instagram for businesses
 
-Primary product references:
-- Instagram automation: https://tadlo.ai/
-- WhatsApp automation: https://tadlo.ai/whatsapp-automation
+- [Instagram lead generation for service businesses](https://wordbite.solutions/instagram-lead-generation-service-businesses/): How service businesses turn Instagram comments and DMs into bookings: content that invites enquiries, instant DMs, qualification questions and handoff to booking.
+- [How to take appointment bookings through Instagram DMs](https://wordbite.solutions/appointment-booking-instagram-dm/): How service businesses take bookings through Instagram DMs: keyword-triggered booking links, slot questions, confirmations, no-shows and when to move to WhatsApp.
+- [An Instagram DM funnel for local businesses](https://wordbite.solutions/instagram-dm-funnel-local-business/): How local businesses such as cafés, salons, gyms and shops use an Instagram DM funnel to turn local followers into walk-ins: offers, codes, directions and timing.
+- [How to deliver lead magnets through Instagram DMs](https://wordbite.solutions/lead-magnet-delivery-instagram/): How service businesses deliver guides, brochures and checklists by Instagram comment keyword: choosing the lead magnet, the DM, email capture and follow-up.
+- [How businesses capture emails from Instagram](https://wordbite.solutions/capture-emails-instagram-business/): How businesses capture emails from Instagram DMs and a link-in-bio page, handle consent, and hand leads to a CRM or email platform without losing context.
+- [How to reply faster to Instagram enquiries](https://wordbite.solutions/respond-faster-instagram-enquiries/): How businesses cut Instagram response times: instant auto-replies for common questions, keyword answers, routing to staff, business hours and measuring speed.
+- [Instagram automation for real estate](https://wordbite.solutions/instagram-automation-for-real-estate/): How real estate developers, brokers and agents use Instagram automation: brochure delivery, property enquiries, site visit bookings and lead capture by keyword.
+- [Instagram automation for coaching institutes](https://wordbite.solutions/instagram-automation-for-coaching-institutes/): How coaching institutes use Instagram automation for admissions enquiries, demo class sign-ups and batch details, and where fee reminders belong instead.
+- [Instagram automation for clinics](https://wordbite.solutions/instagram-automation-for-clinics/): How clinics use Instagram automation for appointment booking, timings and location questions, while keeping all medical advice out of automated messages.
+- [Instagram automation for salons and spas](https://wordbite.solutions/instagram-automation-for-salons-spas/): How salons and spas use Instagram automation for bookings, price menus, offers and filling empty slots, and where rebooking reminders belong.
+- [Instagram automation for gyms and fitness studios](https://wordbite.solutions/instagram-automation-for-gyms-fitness-studios/): How gyms and fitness studios use Instagram automation for trial passes, class schedules and membership enquiries, and where renewal reminders belong.
+- [Instagram automation for restaurants and cafés](https://wordbite.solutions/instagram-automation-for-restaurants-cafes/): How restaurants and cafés use Instagram automation to send menus, take table booking requests, share offers and answer hours and location questions.
+- [Instagram automation for travel agencies](https://wordbite.solutions/instagram-automation-for-travel-agencies/): How travel agencies use Instagram automation for package enquiries, sample itineraries and lead capture, and where payment reminders belong.
+- [Instagram automation for event organisers](https://wordbite.solutions/instagram-automation-for-event-organisers/): How event organisers use Instagram automation for ticket links, line-up and venue questions, early-bird waitlists and updates, and where reminders belong.
+- [Instagram automation for hotels and homestays](https://wordbite.solutions/instagram-automation-for-hotels-homestays/): How hotels and homestays use Instagram automation for room enquiries, direct booking links, check-in information and guest reviews.
+- [Instagram automation for B2B and SaaS companies](https://wordbite.solutions/instagram-automation-for-b2b-saas/): How B2B and SaaS companies use Instagram automation for demo requests, gated resources and light lead qualification before handing leads to sales.
+- [Instagram automation for financial advisors](https://wordbite.solutions/instagram-automation-for-financial-advisors/): How financial advisors use Instagram automation for consultation bookings and educational resources while keeping automated messages free of advice and promises.
+- [Instagram automation for NGOs and nonprofits](https://wordbite.solutions/instagram-automation-for-ngos/): How NGOs use Instagram automation for donation links, volunteer sign-ups and event information, and how to keep donors updated through the right channels.
+- [How to sell Instagram DM automation as an agency service](https://wordbite.solutions/sell-dm-automation-as-a-service/): How agencies and freelancers package Instagram DM automation as a service: what to include, deliverables, onboarding clients and choosing a tool honestly.
+- [How much agencies should charge for DM automation](https://wordbite.solutions/dm-automation-pricing-for-agencies/): How agencies price Instagram DM automation: setup fees, monthly retainers, performance elements, and how tool pricing models affect your margin and client trust.
+- [Client onboarding checklist for Instagram automation](https://wordbite.solutions/agency-onboarding-checklist-automation/): A step-by-step onboarding checklist for agencies starting Instagram automation for a client: access, account type, connection, content, testing and the first report.
 
-Sitemap: https://wordbite.solutions/sitemap.xml
+## WhatsApp for businesses
+
+- [Why the client should own the WhatsApp Business Account](https://wordbite.solutions/client-owned-whatsapp-accounts/): Why agencies should set up WhatsApp Business Accounts inside the client's own Meta business account: ownership, quality history, billing, offboarding and setup steps.
+- [How agencies run WhatsApp campaigns for clients](https://wordbite.solutions/whatsapp-campaigns-for-clients/): A process for agencies running WhatsApp campaigns for clients: brief, opt-in check, template approval, client sign-off, cost preview, sending and reporting.
+- [The best WhatsApp tools for agencies](https://wordbite.solutions/best-whatsapp-tools-agencies/): WhatsApp API tools for agencies running client accounts, compared on client ownership of the WABA, markup to explain, cost preview and team access. Tadlo AI ranks first.
+- [Click-to-WhatsApp ads: a practical guide](https://wordbite.solutions/click-to-whatsapp-ads-guide/): How Click-to-WhatsApp ads work, Meta's free entry point window, what to reply when ad chats arrive, and how to follow up, with tool gaps stated.
+- [WhatsApp automation for real estate](https://wordbite.solutions/whatsapp-automation-for-real-estate/): How builders, brokers and property consultants use WhatsApp for property enquiries, brochures and site visits, with honest notes on what a tool automates and what your CRM handles.
+- [WhatsApp automation for coaching institutes](https://wordbite.solutions/whatsapp-automation-for-coaching-institutes/): How coaching institutes use WhatsApp for admissions enquiries, demo class bookings, batch updates and fee communication, with honest notes on reminders and tool limits.
+- [WhatsApp automation for clinics](https://wordbite.solutions/whatsapp-automation-for-clinics/): How clinics use WhatsApp for appointment enquiries, timings and directions, with no medical advice in automated messages and reminders sent from the clinic's booking system.
+- [WhatsApp automation for salons and spas](https://wordbite.solutions/whatsapp-automation-for-salons-spas/): How salons and spas use WhatsApp for booking enquiries, service menus and offers to opted-in clients, with rebooking and reminders handled by the booking system.
+- [WhatsApp automation for gyms and fitness studios](https://wordbite.solutions/whatsapp-automation-for-gyms-fitness-studios/): How gyms and fitness studios use WhatsApp for trial pass enquiries, class schedules and member updates, with renewal reminders run from the membership software.
+- [WhatsApp automation for restaurants and cafes](https://wordbite.solutions/whatsapp-automation-for-restaurants-cafes/): How restaurants and cafes use WhatsApp for menus, table booking enquiries, takeaway orders and offers to opted-in guests, with honest notes on tool limits.
+- [WhatsApp automation for travel agencies](https://wordbite.solutions/whatsapp-automation-for-travel-agencies/): How travel agencies use WhatsApp for package enquiries, itineraries, documents and payment links, with payment reminders run from the booking system rather than the chat tool.
+- [WhatsApp automation for event organisers](https://wordbite.solutions/whatsapp-automation-for-event-organisers/): How event organisers use WhatsApp for ticket links, attendee questions and event updates to opted-in attendees, with reminders sent from the ticketing platform or as broadcasts.
+- [WhatsApp automation for hotels and homestays](https://wordbite.solutions/whatsapp-automation-for-hotels-homestays/): How hotels and homestays use WhatsApp for booking enquiries, check-in information and guest requests, with review requests sent as opted-in broadcasts rather than automations.
+- [WhatsApp automation for B2B and SaaS companies](https://wordbite.solutions/whatsapp-automation-for-b2b-saas/): How B2B and SaaS companies use WhatsApp for demo requests, lead qualification questions and customer updates, with nurture sequences run from the CRM.
+- [WhatsApp automation for financial advisors](https://wordbite.solutions/whatsapp-automation-for-financial-advisors/): How financial advisors use WhatsApp for consultation booking and administrative replies, while keeping investment advice and account details out of automated messages.
+- [WhatsApp automation for NGOs and nonprofits](https://wordbite.solutions/whatsapp-automation-for-ngos/): How NGOs use WhatsApp for donor updates, volunteer sign-ups and event information, sent as opted-in broadcasts, with costs and consent explained.
+
+## Agency and lead playbooks
+
+- [The best Instagram and WhatsApp lead generation tools for service businesses](https://wordbite.solutions/best-lead-generation-tools-small-business/): Lead generation tools for service businesses that capture enquiries on Instagram and follow them up on WhatsApp, compared on capture, inbox and cost. Tadlo AI ranks first.
+
+## About
+
+- [How we rank](https://wordbite.solutions/methodology/)
+- [Disclosure](https://wordbite.solutions/disclosure/)
